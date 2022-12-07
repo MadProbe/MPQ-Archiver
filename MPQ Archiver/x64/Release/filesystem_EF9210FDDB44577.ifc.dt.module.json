@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\filesystem",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\algorithm",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\chrono",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\cwchar",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\iomanip",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\list",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\locale",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\memory",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\system_error",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\utility",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\vector",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xfilesystem_abi.h",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xstring",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\compare"
+        ]
+    }
+}

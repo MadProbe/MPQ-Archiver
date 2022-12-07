@@ -1,0 +1,14 @@
+IndentWidth: 4
+BasedOnStyle: Chromium
+IndentAccessModifiers: false
+AlignAfterOpenBracket: Align
+AlwaysBreakTemplateDeclarations: Yes
+ColumnLimit: 0
+IndentCaseLabels: true
+PointerAlignment: Left
+Cpp11BracedListStyle: false
+SpaceBeforeCpp11BracedList: true
+IncludeBlocks: Regroup
+SeparateDefinitionBlocks: Always
+SpaceAfterTemplateKeyword: false
+AccessModifierOffset: 0

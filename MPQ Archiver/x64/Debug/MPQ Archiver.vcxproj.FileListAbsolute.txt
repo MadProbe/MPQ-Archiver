@@ -1,0 +1,2 @@
+D:\Games\hidden\VS\source\repos\MPQ (Un)Packer\x64\Debug\MPQ Archiver.exe.lastcodeanalysissucceeded
+D:\Games\hidden\VS\source\repos\MPQ (Un)Packer\MPQ Archiver\x64\Debug\NativeCodeAnalysis.read.1.tlog

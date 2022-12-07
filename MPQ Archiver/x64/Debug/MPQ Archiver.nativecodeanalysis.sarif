@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31933.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/games/hidden/vs/source/repos/mpq (un)packer/mpq archiver/mpq archiver.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "3cbbee508f0598fb89cf4d2ef5f148355041ea7794e55f6700de734b116f3649"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/games/hidden/vs/source/repos/mpq (un)packer/stormlib-master/src/stormlib.h"
+          },
+          "hashes": {
+            "sha-256": "b15d8078ee34a39188e66451fdc0042fe62b7b632ab5d55987d73263ab729ec4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/games/hidden/vs/source/repos/mpq (un)packer/stormlib-master/src/stormport.h"
+          },
+          "hashes": {
+            "sha-256": "4cb2ca60fea296c6de397063b7ae03c053aef8cf8d04fc78204c54774858ad11"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/games/hidden/vs/source/repos/mpq (un)packer/mpq archiver/stringbuilder.h"
+          },
+          "hashes": {
+            "sha-256": "3e378bb25c2d5661d4325640b4482afeae09b4c44f2d30c4a9504604c9ffbdb1"
+          }
+        }
+      ]
+    }
+  ]
+}

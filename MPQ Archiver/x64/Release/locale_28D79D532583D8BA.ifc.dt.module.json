@@ -1,0 +1,16 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\locale",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xlocbuf",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xlocmes",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xlocmon",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xlocnum",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xloctime",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\xstring"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE55486A-C0DD-4F82-BB41-034073568D36}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.clang-format = .clang-format
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StormLib_dll", ".\StormLib-master\StormLib_vs19_dll.vcxproj", "{CB385198-50B1-4CF4-883B-11F042DED6AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPQ Archiver", "MPQ Archiver\MPQ Archiver.vcxproj", "{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CB385198-50B1-4CF4-883B-11F042DED6AA} = {CB385198-50B1-4CF4-883B-11F042DED6AA}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Debug|Any CPU.Build.0 = Debug|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Debug|x64.ActiveCfg = Debug|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Debug|x64.Build.0 = Debug|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Debug|x86.Build.0 = Debug|Win32
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Release|Any CPU.ActiveCfg = Release|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Release|Any CPU.Build.0 = Release|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Release|x64.ActiveCfg = Release|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Release|x64.Build.0 = Release|x64
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Release|x86.ActiveCfg = Release|Win32
+		{CB385198-50B1-4CF4-883B-11F042DED6AA}.Release|x86.Build.0 = Release|Win32
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Debug|Any CPU.Build.0 = Debug|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Debug|x64.ActiveCfg = Debug|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Debug|x64.Build.0 = Debug|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Debug|x86.Build.0 = Debug|Win32
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Release|Any CPU.ActiveCfg = Release|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Release|Any CPU.Build.0 = Release|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Release|x64.ActiveCfg = Release|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Release|x64.Build.0 = Release|x64
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Release|x86.ActiveCfg = Release|Win32
+		{A67EC92D-0B77-4790-A6BD-8E2077DF3EBF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13969525-7F99-4375-AE61-C75A7EE788B9}
+	EndGlobalSection
+EndGlobal

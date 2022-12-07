@@ -1,0 +1,19 @@
+﻿  SFilePatchArchives.cpp
+  FileStream.cpp
+  SBaseCommon.cpp
+  SBaseFileTable.cpp
+  SBaseSubTypes.cpp
+  SCompression.cpp
+  SFileAddFile.cpp
+  SFileAttributes.cpp
+  SFileCompactArchive.cpp
+  SFileCreateArchive.cpp
+  SFileExtractFile.cpp
+  SFileFindFile.cpp
+  SFileGetFileInfo.cpp
+  SFileListFile.cpp
+  SFileOpenArchive.cpp
+  SFileOpenFileEx.cpp
+  SFileReadFile.cpp
+  SFileVerify.cpp
+  StormLib_vs19_dll.vcxproj -> D:\Games\hidden\StormLib-master\bin\StormLib_dll\x64\Debug\StormLib.dll

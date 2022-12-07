@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\coroutine",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\compare",
+            "d:\\hidden\\programs\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.34.31933\\include\\type_traits"
+        ]
+    }
+}
